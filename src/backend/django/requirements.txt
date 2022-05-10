@@ -1,0 +1,4 @@
+django
+django-simpleui
+django_extensions
+django-debug-toolbar
